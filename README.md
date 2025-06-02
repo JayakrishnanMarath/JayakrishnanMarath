@@ -17,5 +17,11 @@ Here are a few things I work with and truly enjoy:
 
 ---
 
-🔗 **I am also on:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayakrishnan-marath/)
+🔗 **I am also on:**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jayakrishnan-marath/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jayakrishnan Marath" height="25"/>
+  </a>
+</p>
+
