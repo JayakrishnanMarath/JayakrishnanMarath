@@ -18,4 +18,4 @@ Here are a few things I work with and truly enjoy:
 ---
 
 🔗 **I am also on:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jayakrishnan-marath/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayakrishnan-marath/)
