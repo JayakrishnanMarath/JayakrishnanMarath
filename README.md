@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Jayakrishnan 👋
 
-<!--
-**JayakrishnanMarath/JayakrishnanMarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data analyst passionate about uncovering insights from data and transforming raw information into actionable strategies. I enjoy solving real-world problems using a blend of analytical thinking and modern data tools.
 
-Here are some ideas to get you started:
+📊 Currently, I’m exploring ways to enhance business intelligence workflows using Power BI and DAX, while building automated solutions with Python and SQL.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I'm open to collaboration and always eager to contribute to impactful data projects. Let’s connect if you’re looking for someone who can bring structure, clarity, and value to your data.
+
+Here are a few things I work with and truly enjoy:
+
+- Designing interactive dashboards using **Power BI**  
+- Writing optimized queries and transforming data with **SQL**  
+- Automating tasks and performing analysis using **Python (Pandas, NumPy, Matplotlib)**  
+- Creating advanced reports using **Excel** and **Power Query**  
+- Writing powerful formulas with **DAX** to build meaningful metrics and KPIs  
+- Communicating insights through compelling **data visualizations**
+
+---
+
+🔗 **I am also on:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jayakrishnan-marath/)
