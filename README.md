@@ -17,12 +17,11 @@ Here are a few things I work with and truly enjoy:
 
 ---
 
-🔗 **Let's connect on LinkedIn:**
-  
+🔗 **Let's connect:**
+
 <p align="left">
   <a href="https://www.linkedin.com/in/jayakrishnan-marath/" target="_blank" rel="noopener noreferrer">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="28" height="28">
-    <span style="margin-left: 8px; vertical-align: middle; color: #0077B5; font-weight: 500;">Jayakrishnan Marath</span>
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="32" height="32">
   </a>
 </p>
 
