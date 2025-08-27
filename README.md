@@ -1,4 +1,4 @@
-Hi there, I'm Jayakrishnan 👋
+#Hi there, I'm Jayakrishnan Marath 👋
 
 I’m a data scientist passionate about uncovering insights, building predictive models, and turning complex data into actionable strategies. I enjoy solving real-world problems using a combination of analytical thinking, machine learning, and modern data tools.
 
