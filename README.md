@@ -8,15 +8,15 @@ I’m a data scientist passionate about uncovering insights, building predictive
 
 Here are a few things I work with and truly enjoy:
 
-Building and deploying Machine Learning, Deep Learning, and NLP models using Python (Pandas, NumPy, Scikit-learn, TensorFlow, Statsmodels)
+* Building and deploying Machine Learning, Deep Learning, and NLP models using Python (Pandas, NumPy, Scikit-learn, TensorFlow, Statsmodels)
 
-Writing optimized queries and transforming data with SQL
+* Writing optimized queries and transforming data with SQL
 
-Automating data workflows and performing advanced analysis with Python
+* Automating data workflows and performing advanced analysis with Python
 
-Creating interactive dashboards and reports using Power BI, Power Query, and DAX
+* Creating interactive dashboards and reports using Power BI, Power Query, and DAX
 
-Communicating insights through compelling data visualizations
+* Communicating insights through compelling data visualizations
 
 🔗 &nbsp;**Let's Connect**  
 <p align="left">
