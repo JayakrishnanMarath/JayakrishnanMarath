@@ -1,27 +1,23 @@
-# Hi there, I'm Jayakrishnan 👋
+Hi there, I'm Jayakrishnan 👋
 
-I’m a data analyst passionate about uncovering insights from data and transforming raw information into actionable strategies. I enjoy solving real-world problems using a blend of analytical thinking and modern data tools.
+I’m a data scientist passionate about uncovering insights, building predictive models, and turning complex data into actionable strategies. I enjoy solving real-world problems using a combination of analytical thinking, machine learning, and modern data tools.
 
-📊 Currently, I’m exploring ways to enhance business intelligence workflows using Power BI and DAX, while building automated solutions with Python and SQL.  
+📊 Currently, I’m working on Machine Learning, Deep Learning, NLP, and data visualization projects, while exploring ways to enhance business intelligence and automate data workflows with Python, SQL, and Power BI.
 
-🤝 I'm open to collaboration and always eager to contribute to impactful data projects. Let’s connect if you’re looking for someone who can bring structure, clarity, and value to your data.
+🤝 I’m open to collaboration and eager to contribute to impactful data science projects. Let’s connect if you’re looking for someone who can bring structure, clarity, and predictive insights to your data.
 
 Here are a few things I work with and truly enjoy:
 
-- Designing interactive dashboards using **Power BI**  
-- Writing optimized queries and transforming data with **SQL**  
-- Automating tasks and performing analysis using **Python (Pandas, NumPy, Matplotlib)**  
-- Creating advanced reports using **Excel** and **Power Query**  
-- Writing powerful formulas with **DAX** to build meaningful metrics and KPIs  
-- Communicating insights through compelling **data visualizations**
+Building and deploying Machine Learning, Deep Learning, and NLP models using Python (Pandas, NumPy, Scikit-learn, TensorFlow, Statsmodels)
 
----
+Writing optimized queries and transforming data with SQL
 
-🔗 **Let's connect:**
+Automating data workflows and performing advanced analysis with Python
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jayakrishnan-marath/" target="_blank" rel="noopener noreferrer">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="32" height="32">
-  </a>
-</p>
+Creating interactive dashboards and reports using Power BI, Power Query, and DAX
 
+Communicating insights through compelling data visualizations
+
+🔗 Let's connect:
+
+<p align="left"> <a href="https://www.linkedin.com/in/jayakrishnan-marath/" target="_blank" rel="noopener noreferrer"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="32" height="32"> </a> </p>
