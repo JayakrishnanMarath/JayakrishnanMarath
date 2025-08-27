@@ -1,4 +1,4 @@
-#Hi there, I'm Jayakrishnan Marath 👋
+## Hi there, I'm Jayakrishnan Marath 
 
 I’m a data scientist passionate about uncovering insights, building predictive models, and turning complex data into actionable strategies. I enjoy solving real-world problems using a combination of analytical thinking, machine learning, and modern data tools.
 
@@ -18,6 +18,7 @@ Creating interactive dashboards and reports using Power BI, Power Query, and DAX
 
 Communicating insights through compelling data visualizations
 
-🔗 Let's connect:
-
-<p align="left"> <a href="https://www.linkedin.com/in/jayakrishnan-marath/" target="_blank" rel="noopener noreferrer"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="32" height="32"> </a> </p>
+🔗 &nbsp;**Let's Connect**  
+<p align="left">
+<a href="https://www.linkedin.com/in/jayakrishnan-marath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayakrishnan-marath" height="37" width="40" /></a>
+</p>
