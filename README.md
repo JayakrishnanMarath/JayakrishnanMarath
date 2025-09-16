@@ -2,7 +2,7 @@
 
 I’m a data scientist passionate about uncovering insights, building predictive models, and turning complex data into actionable strategies. I enjoy solving real-world problems using a combination of analytical thinking, machine learning, and modern data tools.
 
-📊 Currently, I’m working on Machine Learning, Deep Learning, NLP, and data visualization projects, while exploring ways to enhance business intelligence and automate data workflows with Python, SQL, and Power BI.
+📊 Currently, I’m working on Machine Learning, NLP, and data visualization projects, while exploring ways to enhance business intelligence and automate data workflows with Python, SQL, and Power BI.
 
 🤝 I’m open to collaboration and eager to contribute to impactful data science projects. Let’s connect if you’re looking for someone who can bring structure, clarity, and predictive insights to your data.
 
